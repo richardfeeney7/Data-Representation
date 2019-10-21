@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<catologue category="technical">
+		<book isbn ="988-277272">  		
+			<title>Learning Python</title> 
+			<author>Richard Feeney</author> 
+			<description>This book provides an introduction to the Python programming language. Python is a
+						 popular open source programming language used for both standalone programs and
+						 scripting applications in a wide variety of domains. It is free, portable, powerful, and
+						 remarkably easy and fun to use. Programmers from every corner of the software industry have 
+						 found Python’s focus on developer productivity and software quality to be
+						 a strategic advantage in projects both large and small.
+			</description> 
+		</book> 
+		
+		<book isbn ="988-2774444">  		
+			<title>Learning XML</title> 
+			<author>Rick Broday</author> 
+			<description>This book provides an introduction to the Extensible Markup Language (XML) is used to describe data. 
+						 The XML standard is a flexible way to create information formats and electronically share structured 
+						 data via the public Internet, as well as via corporate networks.
+			</description> 
+		</book> 
+	</catologue>
+	
+	<catologue category="cookery">
+		<book isbn ="122-2774444">  		
+			<title>Easy Meals</title> 
+			<author>Jaqueline Broday</author> 
+			<description>A quick meal with an easy recipe is often the most comforting and we have a great selection of cookbooks 
+			             filled with weekday meal inspiration. You can also check out our full range of recipe books for more delicious meal ideas.
+			</description> 
+		</book> 
+		
+			<book isbn ="122-277774444">  		
+			<title>15 Minute Meals</title> 
+			<author>Leneta Gavin</author> 
+			<description> Learn how to cook a meal in just 15 minutes.
+			</description> 
+		</book> 
+	</catologue>
+</library>
